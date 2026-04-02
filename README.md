@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # career-os
-=======
-# Career OS
->>>>>>> 96a243c (update readme)
 
 #Career OS - Splunk Data Engineer Track
 
